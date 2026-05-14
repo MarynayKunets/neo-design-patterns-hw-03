@@ -1,0 +1,14 @@
+{
+  "name": "neo-design-patterns-hw-03",
+  "version": "1.0.0",
+  "description": "Payment system with Factory Method and Abstract Factory patterns",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4",
+    "ts-node": "^10.9.1",
+    "@types/node": "^20.19.41"
+  }
+}
